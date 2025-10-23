@@ -34,7 +34,8 @@ It helps identify trends, improve forecasting accuracy, and optimise inventory m
 - **Forecasted Demand**
 
 ## 📷 Dashboard Preview
-![Retail Store Inventory Dashboard](Retail_Store_Inventory_Dashboard.png)
+![Retail Store Inventory Dashboard](Retail_Store_I<img width="702" height="391" alt="Retail store inventory dashboard" src="https://github.com/user-attachments/assets/9e39b178-0e07-4d3c-a1bd-c30afcf26d47" />
+nventory_Dashboard.png)
 
 ---
 
